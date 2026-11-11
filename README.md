@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="./assets/img/Hero.png" width="100%"
-alt="DeepSeek Harness hero 横幅：对话自动分层蒸馏成记忆，模型每步前自动召回注入——右侧对话气泡逐层溶解为三层渐亮光带，流入带发光圆球与渐变轨道的玻璃胶囊（下有 日常·工作·智能·关闭 四档刻度），光丝回流示意召回注入">
+
 
 # dsh-prime-memory
 
 **DeepSeek Harness 的分层蒸馏记忆插件：对话在后台自动完成 L0 捕获 → L1 原子记忆 → L2 场景整合 → L3 画像蒸馏，模型每一步前自动把相关记忆注入上下文。**
 
 [English](README.en.md) · [最新发行版](https://github.com/drscrewdriver/dsh-prime-memory/releases/latest) · [反馈问题](https://github.com/drscrewdriver/dsh-prime-memory/issues)
+<p align="center" dir="auto">
+  <a href="https://dshfind.com/zh/plugins/drscrewdriver/dsh-prime-memory?ref=badge" rel="nofollow"><img src="https://raw.githubusercontent.com/drscrewdriver/dsh-prime-memory/f3e4aa83231be912c72adb15271bfe6b3330dc8e/assets/dshfind-card.svg" alt="dshfind - dsh-browser-cdp" data-canonical-src="https://dshfind.com/api/badge/drscrewdriver/dsh-prime-memory" style="max-width: 100%;"></a>
+</p>
 
 [![npm version](https://img.shields.io/npm/v/dsh-prime-memory?color=6f83ff\&style=flat-square\&label=npm)](https://www.npmjs.com/package/dsh-prime-memory)
 [![DSH 0.2.0-rc.1](https://img.shields.io/badge/DSH-0.2.0--rc.1-8b5cf6?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 [![MIT License](https://img.shields.io/badge/license-MIT-536990?style=flat-square)](LICENSE)
-
+[![dsh.so risk](https://cdn.dsh.so/badge/dsh-prime-memory.svg)](https://www.dsh.so/artifact/dsh-prime-memory/?ref=badge)
+[![dsh.so install · dsh 0.2.2-rc.1](https://cdn.dsh.so/badge/install/dsh-prime-memory@0.2.2-rc.1.svg)](https://www.dsh.so/artifact/dsh-prime-memory/?ref=badge-install)
+[![dsh.so install · dsh 0.2.1-rc.5](https://cdn.dsh.so/badge/install/dsh-prime-memory@0.2.1-rc.5.svg)](https://www.dsh.so/artifact/dsh-prime-memory/?ref=badge-install)
+[![dsh.so install · dsh 0.2.1-rc.2](https://cdn.dsh.so/badge/install/dsh-prime-memory@0.2.1-rc.2.svg)](https://www.dsh.so/artifact/dsh-prime-memory/?ref=badge-install)
 </div>
-
+<img src="./assets/img/Hero.png" width="100%"
+alt="DeepSeek Harness hero 横幅：对话自动分层蒸馏成记忆，模型每步前自动召回注入——右侧对话气泡逐层溶解为三层渐亮光带，流入带发光圆球与渐变轨道的玻璃胶囊（下有 日常·工作·智能·关闭 四档刻度），光丝回流示意召回注入">
 <details open>
 <summary>🌐 语言 / Language</summary>
 
